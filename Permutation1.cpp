@@ -1,3 +1,7 @@
+// Negative and positive difference subarrays
+// a=2^(i-1) 1<=i<=n
+// b=-1 or b=1 1<=i<=n
+// c=a.b
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
